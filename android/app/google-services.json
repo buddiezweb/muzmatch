@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "619512220169",
+    "project_id": "muzmatch-5a202",
+    "storage_bucket": "muzmatch-5a202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619512220169:android:426f7d8c902e57426d06d8",
+        "android_client_info": {
+          "package_name": "com.simplemarriage.customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619512220169-ibv093kdd4cgojee7gsfnk73a0e3ob62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simplemarriage.customerapp",
+            "certificate_hash": "2dcdfac5823b88cdb882e33526225228a7282652"
+          }
+        },
+        {
+          "client_id": "619512220169-c98uu7s9s5t2tbm8daj55p5ica0hcnuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt9ChLIAVWonzhrA1ABj12HFZ7LK1P1ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619512220169-c98uu7s9s5t2tbm8daj55p5ica0hcnuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
